@@ -50,7 +50,7 @@
 + **Some Other Books to Read for Understanding the content of the above book required for ML Topics**
       + **Vector Calculus - Anthony Tromba**
       + **Matrix Computations - Gene H Golub**
-      + **Introduction to Applied Linear Algebra - Vector, Matrices and Least Squares - Stephen Boyd ([Link to the Website](https://web.stanford.edu/~boyd/vmls/))**
+      + **[Introduction to Applied Linear Algebra - Vector, Matrices and Least Squares - Stephen Boyd](https://web.stanford.edu/~boy/vmls/)**
       + **Numerical Methods for unconstrained optimization and non linear equations - J.E Dennis Jr**
       + **Understanding the New Statistics - Geoff Cumming**
       + **Artificial Intelligence - A Modern Approach - Stuart Russell**
