@@ -12,7 +12,7 @@
    + **Convex Optimization - Stephen Boyd([Link to the website](https://web.stanford.edu/~boyd/cvxbook/))**
 + **Estimation Theory**
 
-## Important Books to study to prepare notes of the lecture series [here](https://www.youtube.com/watch?v=EfnJXeKmodw&list=PLcXJymqaE9PPGGtFsTNoDWKl-VNVX5d6b&index=1) (which are highly recommended as well):
+## Important Books to study to prepare notes of the lecture series [here](https://www.youtube.com/watch?v=EfnJXeKmodw&list=PLcXJymqaE9PPGGtFsTNoDWKl-VNVX5d6b&index=1) (which are highly recommended as well):**
 + **Pattern Classification - Richard O' Duda**
 + **Statistical Pattern Recognition - Fukunaga**
 + **Machine Learning - A Probablistic Perspective by Kevin Murphy**
@@ -50,7 +50,7 @@
 + **Some Other Books to Read for Understanding the content of the above book required for ML Topics**
 + **Vector Calculus - Anthony Tromba**
 + **Matrix Computations - Gene H Golub**
-+ **Introduction to Applied Linear Algebra - Vector, Matrices and Least Squares - Stephen Boyd ([Link to the Website](https://web.stanford.edu/~boyd/vmls/))
++ **Introduction to Applied Linear Algebra - Vector, Matrices and Least Squares - Stephen Boyd ([Link to the Website](https://web.stanford.edu/~boyd/vmls/))**
 + **Numerical Methods for unconstrained optimization and non linear equations - J.E Dennis Jr**
 + **Understanding the New Statistics - Geoff Cumming**
 + **Artificial Intelligence - A Modern Approach - Stuart Russell**
