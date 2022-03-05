@@ -48,13 +48,13 @@
     + **Combining Pattern Classifiers - Ludmila Kuncheva**
 
 + **Some Other Books to Read for Understanding the content of the above book required for ML Topics**
-+ **Vector Calculus - Anthony Tromba**
-+ **Matrix Computations - Gene H Golub**
-+ **Introduction to Applied Linear Algebra - Vector, Matrices and Least Squares - Stephen Boyd ([Link to the Website](https://web.stanford.edu/~boyd/vmls/))**
-+ **Numerical Methods for unconstrained optimization and non linear equations - J.E Dennis Jr**
-+ **Understanding the New Statistics - Geoff Cumming**
-+ **Artificial Intelligence - A Modern Approach - Stuart Russell**
-+ **Introduction to Algorithms - Thomas Cormen**
+      + **Vector Calculus - Anthony Tromba**
+      + **Matrix Computations - Gene H Golub**
+      + **Introduction to Applied Linear Algebra - Vector, Matrices and Least Squares - Stephen Boyd ([Link to the Website](https://web.stanford.edu/~boyd/vmls/))**
+      + **Numerical Methods for unconstrained optimization and non linear equations - J.E Dennis Jr**
+      + **Understanding the New Statistics - Geoff Cumming**
+      + **Artificial Intelligence - A Modern Approach - Stuart Russell**
+      + **Introduction to Algorithms - Thomas Cormen**
 + **General Reads:Related to What we're reading/learning from this course**
    + **Godel, Escher, Bach - An Eternal Golden Braid - Douglas R Hofstadter**
    + **The Theory of Games and Economic Behavior - Von Neumann**
