@@ -12,7 +12,7 @@
    + **Convex Optimization - Stephen Boyd([Link to the website](https://web.stanford.edu/~boyd/cvxbook/))**
 + **Estimation Theory**
 
-## Important Books to study to prepare notes of the lecture series [here](https://www.youtube.com/watch?v=EfnJXeKmodw&list=PLcXJymqaE9PPGGtFsTNoDWKl-VNVX5d6b&index=1) (which are highly recommended as well):**
+## Important Books to study to prepare notes of the lecture series [here](https://www.youtube.com/watch?v=EfnJXeKmodw&list=PLcXJymqaE9PPGGtFsTNoDWKl-VNVX5d6b&index=1) (which are highly recommended as well):
 + **Pattern Classification - Richard O' Duda**
 + **Statistical Pattern Recognition - Fukunaga**
 + **Machine Learning - A Probablistic Perspective by Kevin Murphy**
