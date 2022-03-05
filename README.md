@@ -19,12 +19,12 @@
 + **Pattern Recognition and Machine Learning - Christopher M. Bishop**
 + **The Elements of Statistical Learning(Data Mining, Interference and Prediction) - Robert Tibshirani**
 + **A Probabilistic Theory of Pattern Recognition - Luc Devroye**
-+ **Generative Methods
++ **Generative Methods**
     + **Principal Component Analysis-I.T.Jolliffe**
     + **Independent Component Analysis-Errkki Oja**
-+ **Generative Methods for Classification
++ **Generative Methods for Classification**
     + **Discriminant Analysis and Statistical Pattern Recognition - Geoffrey J McLACHLAN**
-+ **Clustering and Unsupervised Learning
++ **Clustering and Unsupervised Learning**
     + **Finite Mixture Models - Geoffrey J McLACHLAN**
     + **The EM Algorithm and Extensions- Geoffrey J McLACHLAN**
 + **Graphical Models**
