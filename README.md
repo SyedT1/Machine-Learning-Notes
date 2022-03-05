@@ -55,11 +55,10 @@
 + **Understanding the New Statistics - Geoff Cumming**
 + **Artificial Intelligence - A Modern Approach - Stuart Russell**
 + **Introduction to Algorithms - Thomas Cormen**
-+ **General Reads:Related to What we're reading/learning from this course
++ **General Reads:Related to What we're reading/learning from this course**
    + **Godel, Escher, Bach - An Eternal Golden Braid - Douglas R Hofstadter**
    + **The Theory of Games and Economic Behavior - Von Neumann**
    + **The Book of Why - Judea Pearl**
    + **The Society of Mind - Marvin Minsky**
    + **From Bacteria to Bach and Back - The evolution of minds - Daniel C. Dennett**
    + **Advice for a young investigator - Ramon y Cajal**
-   + 
